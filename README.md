@@ -3,8 +3,8 @@
 ## About the project
 I made this game as the solution of list 7 on my studies. It's a very good looking clone of original 1972 PONG game with original sounds and look. It's a very primitive version of table tennis.
 
-![alt text](https://github.com/darthqba/Lista_7-Programowanie/main/Images/Pong1.png?raw=true)
-![alt text](https://github.com/darthqba/Lista_7-Programowanie/main/Images/Pong2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/darthqba/Lista_7-Programowanie/main/Images/Pong1.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/darthqba/Lista_7-Programowanie/main/Images/Pong2.PNG?raw=true)
 
 ## Modules and programs
 **Python** - the game is written in this programming language<br/>
